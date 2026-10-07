@@ -1,8 +1,9 @@
-
+from task import tasks_list
 name = input("what`s your name ?")
 print("hi ",name)
 
-tasks_list = []
+
+
 while True :
     task_y_n =input("do you want add task yes or no ?  ")
     if task_y_n == "yes" :
