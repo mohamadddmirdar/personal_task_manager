@@ -55,9 +55,9 @@ simple questions for customer's order
 |   README.md
 |____gifs
 |       demo.gif
-|   pic1.png
-|   pic2.png
-|   pic3.png
+|   pic/pic1.png
+|   pic/pic2.png
+|   pic/pic3.png
 ```
 
 ### File Description
@@ -123,13 +123,13 @@ python main.py
 ## Screenshot
 
 ### programm start
-![programm start](pic1.png)
+![programm start](pic/pic1.png)
 
 ### questions
-![questions](pic2.png)
+![questions](pic/pic2.png)
 
 ### final result
-![final_result](pic3.png)
+![final_result](pic/pic3.png)
 
 ## Demo
 
