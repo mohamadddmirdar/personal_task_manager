@@ -24,8 +24,10 @@ while True :
     if task_y_n == "yes" :
        
         task_ques = input("enter your task: ")
+        task_priroity = input("enter your task priroity: ")
         tasks_list.append(task_ques)
-        print("task : ",task_ques," saved")
+        tasks_list.append(task_priroity)
+        print("task : ",task_ques," saved ",task_priroity)
     elif task_y_n == "no":
         break
     else:

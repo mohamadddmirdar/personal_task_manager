@@ -1,1 +1,1 @@
-from task import tasks_list
+print("task : ",task_ques," saved ",task_priroity)
