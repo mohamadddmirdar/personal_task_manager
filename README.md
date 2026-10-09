@@ -8,7 +8,10 @@ simple questions for customer's order
 
 
 
-- [Mini Shop](#mini-shop)
+
+
+
+
   - [Table of contents](#table-of-contents)
   - [Features](#features)
   - [Project Structure](#project-structure)
