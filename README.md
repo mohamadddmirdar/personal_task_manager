@@ -43,6 +43,7 @@ simple questions for customer's order
   - checks if the password is correct
   - keeps the private information outside the main python file
   - Loads the password from `.env`
+  - ask quiz about your tasks priroity
 
 
 ## Project Structure
@@ -154,7 +155,7 @@ python main.py
 - [x] add multiple tasks
 - [x] save results to a file
 - [x] add admin mode
-- [ ] add priotority for tasks
+- [x] add priotority for tasks
 - [ ] add a timer
 ## Contributing
 
